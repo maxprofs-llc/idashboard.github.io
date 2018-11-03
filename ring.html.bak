@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Site Maintenance</title>
+    <style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style> </head>
+  <body>
+    <article>
+      <h1>i360 Client Activity Dashboard is currently unavailable.</h1>
+      <div>
+        <p>Sorry for the inconvenience. We hope to be live again soon.</p>
+        <p>— Zimba </p>
+      </div>
+    </article>
+  </body>
+</html>
