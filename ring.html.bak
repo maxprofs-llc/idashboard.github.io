@@ -13,10 +13,12 @@
 </style> </head>
   <body>
     <article>
-      <h1>i360 Client Activity Dashboard is currently unavailable.</h1>
+      <h1 style="text-align: center;"><strong>ATTENTION MIK:</strong></h1>
       <div>
-        <p>Sorry for the inconvenience. We hope to be live again soon.</p>
-        <p>— Zimba </p>
+        <h1 style="text-align: center;">Celebrate an Election Day win, call the
+          Ring Guy: (703) 281-1888</h1>
+        <div style="text-align: center;"><img src="file:///C:/Users/bszmytke/Documents/GitHub/idashboard.github.io/logo-igs.jpg"
+            alt=""></div>
       </div>
     </article>
   </body>
